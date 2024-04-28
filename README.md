@@ -1,6 +1,4 @@
 # Multi-bank-payment-optimization
-This system streamlines transactions among multiple banks throughout India, each operating with distinct payment methodologies. Acting as an intermediary between banks with diverse payment modes, the Reserve Bank of India (RBI) facilitates efficient fund transfers.
-# Multi-Bank Payment Optimization System
 
 Welcome to the Multi-Bank Payment Optimization System README!
 
@@ -32,6 +30,7 @@ And the accompanying transactions:
 | SBI Bank              | ICICI Bank             | 500         |
 
 These transactions are depicted as a directed graph, where each edge denotes a financial obligation.
+
 ![image](https://github.com/rajvijay1504/Multi-bank-payment-optimization/assets/120421407/5725ff12-387a-4839-bb3a-9d5dc253d784)
 
 
