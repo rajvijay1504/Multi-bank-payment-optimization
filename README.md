@@ -34,15 +34,15 @@ These transactions are depicted as a directed graph, where each edge denotes a f
 ![image](https://github.com/rajvijay1504/Multi-bank-payment-optimization/assets/120421407/5725ff12-387a-4839-bb3a-9d5dc253d784)
 
 
-However, there's a twist! Each bank exclusively supports specific payment modes, limiting transactions to those methods. Only the RBI accommodates all payment modes. In this scenario, we have three payment modes: Google_Pay, Bharat Pay, and Paytm.
+However, there's a twist! Each bank exclusively supports specific payment modes, limiting transactions to those methods. Only the RBI accommodates all payment modes. In this scenario, we have three payment modes: Google_Pay, Bharat_Pay, and Paytm.
 
 Here are the banks and their supported payment modes:
 
-- RBI: Google_Pay, Bharat Pay, Paytm
-- AXIS Bank: Google_Pay, Bharat Pay
-- SBI Bank: Bharat Pay
+- RBI: Google_Pay, Bharat_Pay, Paytm
+- AXIS Bank: Google_Pay, Bharat_Pay
+- SBI Bank: Bharat_Pay
 - ICICI Bank: Google_Pay, Paytm
-- Bank of Baroda: Bharat Pay, Paytm
+- Bank of Baroda: Bharat_Pay, Paytm
 - HDFC Bank: Paytm
 
 ## Algorithm Overview
